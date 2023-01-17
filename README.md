@@ -47,13 +47,12 @@ The below-mentioned specification are given to submit this assignment. The tick-
 
 <h4 align="left" font="bold">Expectations</h4>
 
-    * Fulfils the requirements explained above.
-    * Well-tested and readable solution.
+  * Fulfils the requirements explained above.
+  * Well-tested and readable solution.
 
 <h4 align="left" font="bold">Submission process</h4>
 
-
-    * Bundle everything into a Zip archive and upload it to Google   Drive, Dropbox or similar and include the link in the application with allowing permission.
+  * Bundle everything into a Zip archive and upload it to Google   Drive, Dropbox or similar and include the link in the application with allowing permission.
 
 <h2 align="left">Frontend specifics: :sparkler:</h2>
 
@@ -80,4 +79,70 @@ The below-mentioned specification are given to submit this assignment. The tick-
 
 <div>
 <img width="440" alt="Screenshot 2023-01-17 at 7 08 47 PM" src="https://user-images.githubusercontent.com/89943976/212965672-34f1a87e-2d4d-4fb5-96e1-01d62400c8a7.png">
+</div>
+
+<h3 align="left">Technologies: :computer:</h3>
+
+<h4 align="left" font="bold">Frontend</h4>
+
+`./delivery-fee-calculator`
+
+`installation command react app:` `npx create-react-app delivery-fee-calculator --template typescript`
+
+<ul>
+<li>React</li>
+<li>TypeScript</li>
+<li></li>
+<li>CSS</li>
+</ul>
+
+<h4 align="left" font="bold">Development Environment</h4>
+
+<ul>
+<li>VS Code</li>
+</ul>
+
+<h4 align="left" font="bold">Testing</h4>
+
+<ul>
+<li>not yet decided</li>
+</ul>
+
+---
+
+<h3 align="left"> Prerequisites: :gear:</h3>
+
+```
+To be able to set up and run the project needed to install it local computer and the required addresses to be used
+
+```
+<p align="left">Clone this repository</p>
+
+`https://github.com/koushik80/delivery-fee-calculator.git`
+
+<p align="left">Change the directory</p>
+
+`cd delivery-fee-calculator`
+
+<p align="left">Install all dependencies</p>
+
+`npm install`
+
+<p align="left">Run the application</p>
+
+`running frontend:` `npm start`
+
+<h4 align="left">addresses</h4>
+
+`Home:` `http://localhost:3000`
+
+---
+
+---
+
+<div>
+<h3 align="left">Project Gallery: :mountain_biking_man:</h3>
+
+<div>
+
 </div>
