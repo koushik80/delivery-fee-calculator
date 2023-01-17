@@ -11,7 +11,7 @@
 <h3 align="left">Abstract: :speech_balloon:</h3>
 
 <p align="left">
-Will be written soon...
+The goal of the assignment is to showcase coding skills and ability to develop features. My task is to create an app for a delivery fee calculator. This app is created to display when a customer is ready with their shopping cart, and it will be useful for them to see how much the delivery will cost. The delivery price depends on the cart value, the number of items in the cart, the time of the order, and the delivery distance. I gave priority to building and running the application smoothly to display the data to the end-to-end users.
 </p>
 
 ---
@@ -92,7 +92,6 @@ The below-mentioned specification are given to submit this assignment. The tick-
 <ul>
 <li>React</li>
 <li>TypeScript</li>
-<li></li>
 <li>CSS</li>
 </ul>
 
