@@ -70,6 +70,7 @@ The below-mentioned specification are given to submit this assignment. The tick-
 <h4 align="left">Specification</h4>
 <p align="left">To build a delivery fee calculator app which calculates a delivery fee based on user input and shows the calculated delivery fee to the user.</p>
 
+---
 <h5 align="left">Input fields</h5>
 
 | Field | Type | Description | Example value |
@@ -79,6 +80,7 @@ The below-mentioned specification are given to submit this assignment. The tick-
 | Number of items | Integer | The number of items in the customer's shopping cart. | 4 (customer has 4 items in the cart) |
 | Order time | Date + Time | The date/time when the order is being made (see rules-section how rush hours affect the delivery price) | Can be chosen the most suitable format |
 
+---
 
 <h5 align="left">Output example</h5>
 <p align="left">Open choice to design and implement the user interface. Below is an example of what it could look like.</p>
@@ -149,6 +151,7 @@ To be able to set up and run the project needed to install it local computer and
 
 <div>
 <h3 align="left">Project Gallery: :blue_car:</h3>
+<p align="left">According to the requirements and based on user input the results came out as below:</p>
 
 <div>
 <img width="1718" alt="Screenshot 2023-01-18 at 3 51 01 PM" src="https://user-images.githubusercontent.com/89943976/213189361-b9f0c200-5766-4a0a-85d0-575a887d0ddb.png">
