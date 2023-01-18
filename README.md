@@ -27,23 +27,28 @@ The below-mentioned specification are given to submit this assignment. The tick-
 
 <h4 align="left" font="bold">Rules for calculating a delivery fee</h4>
 
-  - &#x2610; If the cart value is less than 10€, a small order surcharge is added to the delivery price. The surcharge is the difference between the cart value and 10€. For example if the cart value is 8.90€, the surcharge will be 1.10€.
-  - &#x2610; A delivery fee for the first 1000 meters (=1km) is 2€. If the delivery distance is longer than that, 1€ is added for every additional 500 meters that the courier needs to travel before reaching the destination. Even if the distance would be shorter than 500 meters, the minimum fee is always 1€.
+  - [x] If the cart value is less than 10€, a small order surcharge is added to the delivery price. The surcharge is the difference between the cart value and 10€. For example if the cart value is 8.90€, the surcharge will be 1.10€.
+
+  - [x] A delivery fee for the first 1000 meters (=1km) is 2€. If the delivery distance is longer than that, 1€ is added for every additional 500 meters that the courier needs to travel before reaching the destination. Even if the distance would be shorter than 500 meters, the minimum fee is always 1€.
 
     * Example 1: If the delivery distance is 1499 meters, the delivery fee is: 2€ base fee + 1€ for the additional 500 m => 3€
     * Example 2: If the delivery distance is 1500 meters, the delivery fee is: 2€ base fee + 1€ for the additional 500 m => 3€
     * Example 3: If the delivery distance is 1501 meters, the delivery fee is: 2€ base fee + 1€ for the first 500 m + 1€ for the second 500 m => 4€
 
-  - &#x2610; If the number of items is five or more, an additional 50 cent surcharge is added for each item above five. An extra "bulk" fee applies for more than 12 items of 1,20€.
+  - [x] If the number of items is five or more, an additional 50 cent surcharge is added for each item above five. An extra "bulk" fee applies for more than 12 items of 1,20€.
 
     * Example 1: If the number of items is 4, no extra surcharge
     * Example 2: If the number of items is 5, 50 cents surcharge is added
     * Example 3: If the number of items is 10, 3€ surcharge (6 x 50 cents) is added
     * Example 4: If the number of items is 13, 5,70€ surcharge is added ((9 * 50 cents) + 1,20€)
 
-  - &#x2610; The delivery fee can never be more than 15€, including possible surcharges. <br />
-  - &#x2610; The delivery is free (0€) when the cart value is equal or more than 100€. <br />
-  - &#x2610; During the Friday rush (3 - 7 PM UTC), the delivery fee (the total fee including possible surcharges) will be multiplied by 1.2x. However, the fee still cannot be more than the max (15€).
+  - [x] The delivery fee can never be more than 15€, including possible surcharges. <br />
+
+  - [x] The delivery is free (0€) when the cart value is equal or more than 100€. <br />
+
+  - [x] During the Friday rush (3 - 7 PM UTC), the delivery fee (the total fee including possible surcharges) will be multiplied by 1.2x. However, the fee still cannot be more than the max (15€).
+
+---
 
 <h4 align="left" font="bold">Expectations</h4>
 
@@ -53,6 +58,8 @@ The below-mentioned specification are given to submit this assignment. The tick-
 <h4 align="left" font="bold">Submission process</h4>
 
   * Bundle everything into a Zip archive and upload it to Google   Drive, Dropbox or similar and include the link in the application with allowing permission.
+
+---
 
 <h2 align="left">Frontend specifics: :sparkler:</h2>
 
@@ -93,6 +100,7 @@ The below-mentioned specification are given to submit this assignment. The tick-
 <li>React</li>
 <li>TypeScript</li>
 <li>CSS</li>
+<li>Fort Awesome</li>
 </ul>
 
 <h4 align="left" font="bold">Development Environment</h4>
@@ -115,19 +123,19 @@ The below-mentioned specification are given to submit this assignment. The tick-
 To be able to set up and run the project needed to install it local computer and the required addresses to be used
 
 ```
-<p align="left">Clone this repository</p>
+<h4 align="left">Clone this repository</h4>
 
 `https://github.com/koushik80/delivery-fee-calculator.git`
 
-<p align="left">Change the directory</p>
+<h4 align="left">Change the directory</h4>
 
 `cd delivery-fee-calculator`
 
-<p align="left">Install all dependencies</p>
+<h4 align="left">Install all dependencies</h4>
 
 `npm install`
 
-<p align="left">Run the application</p>
+<h4 align="left">Run the application</h4>
 
 `running frontend:` `npm start`
 
