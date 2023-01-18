@@ -90,7 +90,7 @@ The below-mentioned specification are given to submit this assignment. The tick-
 
 <h3 align="left">Technologies: :computer:</h3>
 
-<h4 align="left" font="bold">Frontend</h4>
+<h4 align="left" font="bold">App directory</h4>
 
 `./delivery-fee-calculator`
 
@@ -127,7 +127,7 @@ To be able to set up and run the project needed to install it local computer and
 
 `https://github.com/koushik80/delivery-fee-calculator.git`
 
-<h4 align="left">Change the directory</h4>
+<h4 align="left">Enter the directory</h4>
 
 `cd delivery-fee-calculator`
 
@@ -148,8 +148,12 @@ To be able to set up and run the project needed to install it local computer and
 ---
 
 <div>
-<h3 align="left">Project Gallery: :mountain_biking_man:</h3>
+<h3 align="left">Project Gallery: :blue_car:</h3>
 
 <div>
-
+<img width="1718" alt="Screenshot 2023-01-18 at 3 51 01 PM" src="https://user-images.githubusercontent.com/89943976/213189361-b9f0c200-5766-4a0a-85d0-575a887d0ddb.png">
+<img width="1718" alt="Screenshot 2023-01-18 at 3 51 14 PM" src="https://user-images.githubusercontent.com/89943976/213189377-53b2568a-4c82-433b-9996-b2e02f400f15.png">
+<img width="1718" alt="Screenshot 2023-01-18 at 3 51 44 PM" src="https://user-images.githubusercontent.com/89943976/213189380-68d9ab86-abed-457c-826c-83ccf7ed7f65.png">
+<img width="1718" alt="Screenshot 2023-01-18 at 3 53 12 PM" src="https://user-images.githubusercontent.com/89943976/213189389-305548af-1f23-4fd1-ae51-f4e50aef285d.png">
+<img width="1718" alt="Screenshot 2023-01-18 at 3 53 23 PM" src="https://user-images.githubusercontent.com/89943976/213189396-2fb975fc-b4fb-4a95-bfc2-baecdd88468f.png">
 </div>
