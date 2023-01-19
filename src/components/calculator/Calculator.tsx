@@ -62,6 +62,7 @@ const Calculator = () => {
                   type="number"
                   id="cartValue"
                   min="0"
+                  placeholder="0"
                   onChange={({ target }) => setCartValue(Number(target.value))}
                   onBlur={({ target }) => setCartValue(Number(target.value))}
                 />
@@ -72,6 +73,7 @@ const Calculator = () => {
                   required
                   type="number"
                   id="deliveryDistance"
+                  placeholder="0"
                   onChange={({ target }) =>
                     setDeliveryDistance(Number(target.value))
                   }
@@ -87,6 +89,7 @@ const Calculator = () => {
                   type="number"
                   min="0"
                   id="amountOfItems"
+                  placeholder="0"
                   onChange={({ target }) =>
                     setAmountOfItems(Number(target.value))
                   }

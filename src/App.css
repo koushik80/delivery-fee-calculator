@@ -6,6 +6,13 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('https://i.ibb.co/7JZtsPq/bck.jpg');
+  animation: scroll 70s linear infinite;
+}
+@keyframes scroll {
+   100%{
+    background-position:0px -3000px;
+  }
 }
 
 code {
