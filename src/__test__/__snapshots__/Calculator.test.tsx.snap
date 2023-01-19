@@ -1,0 +1,125 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Calculator component test Render correctly initial document 1`] = `
+<div
+  className="calculator"
+>
+  <div
+    className="calculator-div"
+  >
+    <h4
+      className="calculator-title"
+    >
+      Calculator
+    </h4>
+    <form
+      className="calculator-form"
+    >
+      <div
+        className="calculator-form-div"
+      >
+        <div
+          className="form-input form-label"
+        >
+          <div>
+            <label
+              htmlFor="cartValue"
+            >
+              Cart Value
+            </label>
+          </div>
+          <div>
+            <label
+              htmlFor="deliveryDistance"
+            >
+              Delivery distance
+            </label>
+          </div>
+          <div>
+            <label
+              htmlFor="amountOfItems"
+            >
+              Amount of items
+            </label>
+          </div>
+          <div>
+            <label
+              htmlFor="time"
+            >
+              Time
+            </label>
+          </div>
+        </div>
+        <div
+          className="form-input"
+        >
+          <div>
+            <input
+              id="cartValue"
+              min="0"
+              onBlur={[Function]}
+              onChange={[Function]}
+              required={true}
+              type="number"
+            />
+            <span>
+              €
+            </span>
+          </div>
+          <div>
+            <input
+              id="deliveryDistance"
+              onBlur={[Function]}
+              onChange={[Function]}
+              required={true}
+              type="number"
+            />
+            <span>
+              m
+            </span>
+          </div>
+          <div>
+            <input
+              id="amountOfItems"
+              min="0"
+              onBlur={[Function]}
+              onChange={[Function]}
+              required={true}
+              type="number"
+            />
+          </div>
+          <div>
+            <input
+              id="time"
+              onBlur={[Function]}
+              onChange={[Function]}
+              required={true}
+              type="datetime-local"
+            />
+            <img
+              alt="Calendar"
+              src="calendar.png"
+            />
+          </div>
+        </div>
+      </div>
+      <button
+        className="submit-btn"
+        onClick={[Function]}
+        type="submit"
+      >
+        Calculate delivery price
+      </button>
+    </form>
+    <div
+      className="delivery-price"
+    >
+      <p>
+        Delivery price: 
+        0
+         € 
+      </p>
+    </div>
+  </div>
+</div>
+`;

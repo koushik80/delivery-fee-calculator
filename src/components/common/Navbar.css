@@ -36,3 +36,9 @@
     font-size: 15px;
   }
 }
+
+@media screen and (max-width: 418px) {
+  .navbar {
+    padding: 1rem;
+  }
+}

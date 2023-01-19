@@ -1,4 +1,4 @@
-# Hi there<img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="50" height="50"/>! Here goes below my Assignment information
+# Hi there<img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="50" height="50"/>! Here goes below the assignment information
 
 <div>
 <h4 align="center"><a href="https://delivery-fee-calc.netlify.app/">Calculator :pager:</a></h4>
@@ -90,6 +90,8 @@ The below-mentioned specification are given to submit this assignment. The tick-
 <img width="440" alt="Screenshot 2023-01-17 at 7 08 47 PM" src="https://user-images.githubusercontent.com/89943976/212965672-34f1a87e-2d4d-4fb5-96e1-01d62400c8a7.png">
 </div>
 
+---
+
 <h3 align="left">Technologies: :computer:</h3>
 
 <h4 align="left" font="bold">App directory</h4>
@@ -103,6 +105,9 @@ The below-mentioned specification are given to submit this assignment. The tick-
 <li>TypeScript</li>
 <li>CSS</li>
 <li>Fort Awesome</li>
+<li>react-test-renderer</li>
+<li>enzyme</li>
+<li>enzyme-adapter-react-16</li>
 </ul>
 
 <h4 align="left" font="bold">Development Environment</h4>
@@ -114,8 +119,12 @@ The below-mentioned specification are given to submit this assignment. The tick-
 <h4 align="left" font="bold">Testing</h4>
 
 <ul>
-<li>not yet decided</li>
+<li>Written Unit testing</li>
 </ul>
+
+<div>
+<img width="1717" alt="test" src="https://user-images.githubusercontent.com/89943976/213326616-ee8e8f37-99f7-458a-b65d-a4bdc1f110db.png">
+<div>
 
 ---
 
@@ -154,6 +163,7 @@ To be able to set up and run the project needed to install it local computer and
 <p align="left">According to the requirements and based on user input the results came out as below:</p>
 
 <div>
+<img width="1710" alt="Screenshot 2023-01-18 at 5 31 20 PM" src="https://user-images.githubusercontent.com/89943976/213214118-3866f6d8-138a-4647-801a-a7ae7ede1d9e.png">
 <img width="1718" alt="Screenshot 2023-01-18 at 3 51 01 PM" src="https://user-images.githubusercontent.com/89943976/213189361-b9f0c200-5766-4a0a-85d0-575a887d0ddb.png">
 <img width="1718" alt="Screenshot 2023-01-18 at 3 51 14 PM" src="https://user-images.githubusercontent.com/89943976/213189377-53b2568a-4c82-433b-9996-b2e02f400f15.png">
 <img width="1718" alt="Screenshot 2023-01-18 at 3 51 44 PM" src="https://user-images.githubusercontent.com/89943976/213189380-68d9ab86-abed-457c-826c-83ccf7ed7f65.png">
