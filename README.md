@@ -163,10 +163,10 @@ To be able to set up and run the project needed to install it local computer and
 <p align="left">According to the requirements and based on user input the results came out as below:</p>
 
 <div>
-<img width="1710" alt="Screenshot 2023-01-18 at 5 31 20 PM" src="https://user-images.githubusercontent.com/89943976/213214118-3866f6d8-138a-4647-801a-a7ae7ede1d9e.png">
-<img width="1718" alt="Screenshot 2023-01-18 at 3 51 01 PM" src="https://user-images.githubusercontent.com/89943976/213189361-b9f0c200-5766-4a0a-85d0-575a887d0ddb.png">
-<img width="1718" alt="Screenshot 2023-01-18 at 3 51 14 PM" src="https://user-images.githubusercontent.com/89943976/213189377-53b2568a-4c82-433b-9996-b2e02f400f15.png">
-<img width="1718" alt="Screenshot 2023-01-18 at 3 51 44 PM" src="https://user-images.githubusercontent.com/89943976/213189380-68d9ab86-abed-457c-826c-83ccf7ed7f65.png">
-<img width="1718" alt="Screenshot 2023-01-18 at 3 53 12 PM" src="https://user-images.githubusercontent.com/89943976/213189389-305548af-1f23-4fd1-ae51-f4e50aef285d.png">
-<img width="1718" alt="Screenshot 2023-01-18 at 3 53 23 PM" src="https://user-images.githubusercontent.com/89943976/213189396-2fb975fc-b4fb-4a95-bfc2-baecdd88468f.png">
+<img width="1717" alt="Screenshot 2023-01-19 at 9 37 12 PM" src="https://user-images.githubusercontent.com/89943976/213543607-41b2c8da-2b87-47ee-8936-fcbbff907eb6.png">
+<img width="1717" alt="Screenshot 2023-01-19 at 9 38 09 PM" src="https://user-images.githubusercontent.com/89943976/213543614-48264823-ccf2-447d-93e8-c5df1a135d60.png">
+<img width="1717" alt="Screenshot 2023-01-19 at 9 38 35 PM" src="https://user-images.githubusercontent.com/89943976/213543618-30598813-77fa-4f15-ba5b-08634bd7a288.png">
+<img width="1717" alt="Screenshot 2023-01-19 at 9 39 05 PM" src="https://user-images.githubusercontent.com/89943976/213543620-67581dca-dc00-446e-91d4-ab30fa95fcde.png">
+<img width="1717" alt="Screenshot 2023-01-19 at 9 39 31 PM" src="https://user-images.githubusercontent.com/89943976/213543622-08c61c4b-bf1a-4ca2-9d80-c0c7d42bdc96.png">
+<img width="1717" alt="Screenshot 2023-01-19 at 9 39 56 PM" src="https://user-images.githubusercontent.com/89943976/213543625-f490b8e0-1ead-480a-9e84-e94230ecf5f7.png">
 </div>
