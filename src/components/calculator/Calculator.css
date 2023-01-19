@@ -11,10 +11,9 @@
     padding: 4rem;
     border-radius: 4px;
     box-shadow: 0 0 10px silver;
-    background: linear-gradient(-45deg, #e2bfb5, #ece3e6, #b5e8fb, #96e9d5, #DDDDDA, #BFB8DA);
+    background: linear-gradient(-55deg, #e63504, #ece3e6, #55afcf, #4cdab9, #d8d889, #9c87ef, #FE676E);
     background-size: 400% 400%;
-    animation: gradient 10s ease infinite;
-    -webkit-animation: gradient 10s ease infinite;
+    animation: gradient 15s ease infinite;
 }
 
 @keyframes gradient {
@@ -30,7 +29,7 @@
 }
 .calculator-title {
     font-size: 1.4rem;
-    color: #c8c9cd;
+    color: #ffffff;
     margin-bottom: 1rem;
 }
 .calculator-form-div {
