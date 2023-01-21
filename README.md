@@ -48,6 +48,10 @@ The below-mentioned specification are given to submit this assignment. The tick-
 
   - [x] During the Friday rush (3 - 7 PM UTC), the delivery fee (the total fee including possible surcharges) will be multiplied by 1.2x. However, the fee still cannot be more than the max (15€).
 
+<h4 align="left" font="bold">Additional Feature Added by me</h4>
+
+ - [x] Cart with increment and decrement quantities of foods
+
 ---
 
 <h4 align="left" font="bold">Expectations</h4>

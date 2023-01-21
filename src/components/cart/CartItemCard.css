@@ -6,8 +6,8 @@
 }
 
 .cartItemCard > img {
-  width: 400px;
-  height: 400px;
+  width: 200px;
+  height: 200px;
   object-fit: cover;
   border-radius: 5px;
 }
@@ -19,8 +19,8 @@
 }
 
 .cartItemCard > div > a {
-  font: 800 0.8rem cursive;
-  color: rgba(24, 24, 24, 0.8);
+  font: 800 0.8rem sans-serif;
+  color: rgba(38, 35, 35, 0.8);
   text-decoration: none;
   font-weight: bold;
 }

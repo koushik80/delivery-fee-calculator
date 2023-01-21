@@ -83,6 +83,10 @@
   font-weight: 500;
 }
 
+.cartGrossProfitBox > p {
+  font-weight: bold;
+}
+
 .checkoutBtn {
   display: flex;
   margin: 1vmax 4vmax;
