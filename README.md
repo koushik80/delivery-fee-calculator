@@ -173,4 +173,6 @@ To be able to set up and run the project needed to install it local computer and
 <img width="1717" alt="Screenshot 2023-01-19 at 9 39 05 PM" src="https://user-images.githubusercontent.com/89943976/213543620-67581dca-dc00-446e-91d4-ab30fa95fcde.png">
 <img width="1717" alt="Screenshot 2023-01-19 at 9 39 31 PM" src="https://user-images.githubusercontent.com/89943976/213543622-08c61c4b-bf1a-4ca2-9d80-c0c7d42bdc96.png">
 <img width="1717" alt="Screenshot 2023-01-19 at 9 39 56 PM" src="https://user-images.githubusercontent.com/89943976/213543625-f490b8e0-1ead-480a-9e84-e94230ecf5f7.png">
+<img width="1712" alt="Screenshot 2023-01-21 at 4 26 22 PM" src="https://user-images.githubusercontent.com/89943976/213871321-338e1411-9951-43b5-b46b-ac5041f72eab.png">
+<img width="1712" alt="Screenshot 2023-01-21 at 4 26 09 PM" src="https://user-images.githubusercontent.com/89943976/213871322-e7c1c77e-1512-4f87-9580-3ea8fbf46393.png">
 </div>
