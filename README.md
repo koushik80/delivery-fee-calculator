@@ -16,7 +16,7 @@ The goal of the assignment is to showcase coding skills and ability to develop f
 
 ---
 
-<h3 align="left">Functional Requirements: :bookmark:</h3>
+<h3 align="left">Functional Requirements(Frontend): :bookmark:</h3>
 
 ```
 The below-mentioned specification are given to submit this assignment. The tick-marked requirements that I met.
@@ -102,9 +102,13 @@ The below-mentioned specification are given to submit this assignment. The tick-
 
 <ul>
 <li>React</li>
+<li>react-router-dom</li>
 <li>TypeScript</li>
 <li>CSS</li>
 <li>Fort Awesome</li>
+<li>MUI</li>
+<li>@emotion/react</li>
+<li>@emotion/styled</li>
 <li>react-test-renderer</li>
 <li>enzyme</li>
 <li>enzyme-adapter-react-16</li>
