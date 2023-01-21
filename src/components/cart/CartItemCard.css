@@ -1,14 +1,15 @@
 .cartItemCard {
   display: flex;
-  padding: 1vmax;
+  padding: 3vmax;
   align-items: center;
   box-sizing: border-box;
 }
 
 .cartItemCard > img {
-  width: 75px;
-  height: 75px;
+  width: 400px;
+  height: 400px;
   object-fit: cover;
+  border-radius: 5px;
 }
 
 .cartItemCard > div {
@@ -18,13 +19,14 @@
 }
 
 .cartItemCard > div > a {
-  font: 300 0.8rem cursive;
+  font: 800 0.8rem cursive;
   color: rgba(24, 24, 24, 0.8);
   text-decoration: none;
+  font-weight: bold;
 }
 
 .cartItemCard > div > p {
-  color: tomato;
+  color: rgb(232, 63, 33);
   font: 100 1vmax "Roboto";
   cursor: pointer;
 }

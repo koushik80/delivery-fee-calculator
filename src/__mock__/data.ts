@@ -85,8 +85,8 @@ export const productData = [
   },
   {
     id: 8,
-    title: 'untitled',
-    description: 'Meal with Salmon and Zucchini',
+    title: 'Meal with Salmon and Zucchini',
+    description: 'untitled',
     price: 36.50,
     rating: 4.43,
     stock: 68,
