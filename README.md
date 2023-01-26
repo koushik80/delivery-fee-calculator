@@ -1,7 +1,15 @@
 # Hi there<img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="50" height="50"/>! Here goes below the assignment information
 
+
+
 <div>
-<h4 align="center"><a href="https://delivery-fee-calc.netlify.app/">Calculator :pager:</a></h4>
+<p align="center">Click hyperlinked Calculator below to see the app</p>
+
+<div id="header" align="center">
+ <img src="https://media.giphy.com/media/778doP94sNJjYitr5C/giphy.gif" width="35" height="35"/>
+</div>
+
+<h2 align="center"><a href="https://delivery-fee-calc.netlify.app/">Calculator :pager:</a></h2>
 </div>
 
 ---
